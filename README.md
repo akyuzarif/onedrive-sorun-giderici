@@ -10,7 +10,12 @@ Bu PowerShell betiği, OneDrive ile ilgili sorunları tespit etmenize ve çözme
 
 ### Kullanım
 
-Betiği çalıştırmak için `TR-onedrive-sorun-giderici.ps1` dosyasını PowerShell ile çalıştırabilirsiniz.
+Bu betik, **PowerShell** ile çalıştırılmalıdır. Windows işletim sisteminde PowerShell yüklüdür. Betiği çalıştırmak için `TR-onedrive-sorun-giderici.ps1` dosyasını PowerShell ile çalıştırabilirsiniz.
+
+### Gereksinimler
+
+- Windows işletim sistemi
+- PowerShell (Windows 10/11'de önceden yüklüdür)
 
 ---
 
@@ -26,4 +31,9 @@ This PowerShell script helps you detect and resolve issues related to OneDrive. 
 
 ### Usage
 
-To run the script, execute the `EN-onedrive-troubleshooter.ps1` file using PowerShell.
+This script needs to be run using **PowerShell**. PowerShell is pre-installed on Windows systems. To run the script, execute the `EN-onedrive-troubleshooter.ps1` file using PowerShell.
+
+### Requirements
+
+- Windows operating system
+- PowerShell (pre-installed on Windows 10/11)
