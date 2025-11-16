@@ -1,4 +1,5 @@
 # OneDrive Sorun Giderici
+
 Bu PowerShell betiği, OneDrive ile ilgili sorunları tespit etmenize ve çözmenize yardımcı olur. Aşağıdaki işlevler sunulmaktadır:
 
 - **Durum Kontrolü**: OneDrive’ın çalışıp çalışmadığını kontrol eder.
@@ -11,19 +12,18 @@ Bu PowerShell betiği, OneDrive ile ilgili sorunları tespit etmenize ve çözme
 
 Betiği çalıştırmak için `TR-onedrive-sorun-giderici.ps1` dosyasını PowerShell ile çalıştırabilirsiniz.
 
+---
+
 # OneDrive Troubleshooter
 
-# This PowerShell script helps you identify and resolve issues with OneDrive. 
-# The following functionalities are provided:
+This PowerShell script helps you detect and resolve issues related to OneDrive. The following functions are available:
 
-# - **Check Status**: Verifies whether OneDrive is running.
-# - **Stop OneDrive**: Allows you to stop OneDrive.
-# - **Start OneDrive**: Restarts OneDrive.
-# - **Reset OneDrive**: Resets OneDrive and restarts it.
-# - **Run All Steps Sequentially**: Automatically runs all troubleshooting steps in order.
+- **Status Check**: Checks whether OneDrive is running or not.
+- **Stop OneDrive**: Allows you to stop OneDrive.
+- **Start OneDrive**: Restarts OneDrive.
+- **Reset OneDrive**: Resets OneDrive and restarts it.
+- **Run All Tasks in Order**: Automatically runs all the steps in sequence.
 
-# Usage
+### Usage
 
-# To run the script, execute the `EN-onedrive-troubleshooter.ps1` file in PowerShell.
-
-
+To run the script, execute the `EN-onedrive-troubleshooter.ps1` file using PowerShell.
