@@ -17,6 +17,11 @@ Bu betik, **PowerShell** ile çalıştırılmalıdır. Windows işletim sistemin
 - Windows işletim sistemi
 - PowerShell (Windows 10/11'de önceden yüklüdür)
 
+### Ekran Görüntüleri
+
+#### Türkçe Versiyon
+![OneDrive Sorun Giderici - Türkçe](https://raw.githubusercontent.com/akyuzarif/onedrive-sorun-giderici/refs/heads/main/screenshot-tr.png)
+
 ---
 
 # OneDrive Troubleshooter
@@ -37,3 +42,8 @@ This script needs to be run using **PowerShell**. PowerShell is pre-installed on
 
 - Windows operating system
 - PowerShell (pre-installed on Windows 10/11)
+
+### Screenshots
+
+#### English Version
+![OneDrive Troubleshooter - English](https://raw.githubusercontent.com/akyuzarif/onedrive-sorun-giderici/refs/heads/main/screenshot-en.png)
