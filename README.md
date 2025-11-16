@@ -47,3 +47,9 @@ This script needs to be run using **PowerShell**. PowerShell is pre-installed on
 
 #### English Version
 ![OneDrive Troubleshooter - English](https://raw.githubusercontent.com/akyuzarif/onedrive-sorun-giderici/refs/heads/main/screenshot-en.png)
+
+
+### Lisans
+
+Bu proje, [MIT Lisansı](https://opensource.org/licenses/MIT) ile lisanslanmıştır.
+
